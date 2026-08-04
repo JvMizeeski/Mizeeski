@@ -1,11 +1,4 @@
 
-  # Portfolio website - awwwwards  style (Community)
+  # Portfolio website - JvMizeeski
 
-  This is a code bundle for Portfolio website - awwwwards  style (Community). The original project is available at https://www.figma.com/design/sEFr7QdtkvSDyQWwJa6DTc/Portfolio-website---awwwwards--style--Community-.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+  Repositório para desenvolvimento de site / portfolio JvMizeeski.
